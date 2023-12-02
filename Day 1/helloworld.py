@@ -60,4 +60,4 @@ print(type(i))
 #Euclidian distance
 # import math module
 import math
-print(math.dist([2,3],[10,8]))
+print(math.dist([4,6],[20,4]))
