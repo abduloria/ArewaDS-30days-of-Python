@@ -54,7 +54,7 @@ print(type(g))
 h = {2,4,6,8} # set - Curly brackets
 print(type(h))
 # Dictionary: 
-i = {'goat':7,'dog':8,'Chicken':9}
+i = {'Goat':7,'Dog':8,'Chicken':9}
 print(type(i))
 
 #Euclidian distance
